@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+   padding:100px 75px 100px 75px;
+    background-color: #151515;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+    transition: all 1s ease-in-out;
+}
+
+
+
+
+.lg{
+    padding: 20px 50px 20px 50px;
+        color: #df1919;
+}
+
+
+
+
+
+
+.butt{
+    padding: 10px 40px;
+    outline: none;
+    border: none;
+    background: rgb(29, 204, 231);
+    color: #151515;
+    font-weight: bolder;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+
+.butt:hover{
+    background: rgb(15, 147, 204);
+}
